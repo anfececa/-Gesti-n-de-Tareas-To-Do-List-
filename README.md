@@ -11,7 +11,7 @@ Esta es una aplicación de consola simple desarrollada en C# para gestionar una 
 
 1. Clona este repositorio en tu máquina local usando Git:
    bash
-   git clone https://github.com/anfececa/-Gestion-de-Tareas-To-Do-List-.git
+   git clone https://github.com/anfececa/-Gesti-n-de-Tareas-To-Do-List-.git
 
 
 
